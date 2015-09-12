@@ -1,11 +1,22 @@
 ---
-layout: page
+layout: about
 title: Об авторе
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+{% comment %}![Фото Олега](/assets/oleg.jpg) {% endcomment %}
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Живу в Бердске, пригороде Новосибирска.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+В последние годы занимаюсь удалённой
+разработкой бэкендов на Ruby on Rails в разных стартапах.
+
+Кандидат технических наук. Сфера научных интересов — Machine Learning. Последние
+работы посвящены применению комплекснозначных нейронных сетей для классификации
+гиперспектральных изображений.
+
+Преподаю дисциплину
+[«Объектно-ориентированное программирование»](http://oop.afti.ru)
+на ФФ НГУ.
+
+О прочих интересах читайте [мой ЖЖ](http://be9.livejournal.com).

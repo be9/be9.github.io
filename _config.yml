@@ -2,7 +2,7 @@
 title: Огненная чаша
 email: be9@be9.ru
 description: > # this means to ignore newlines until "baseurl:"
-  Блог Олега Дашевского.
+  Блог Олега Дашевского
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://be9.ru" # the base hostname & protocol for your site
 twitter_username: be9
