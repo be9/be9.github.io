@@ -3,6 +3,7 @@ layout: post
 title:  "Как я провёл две недели в поисках утечки памяти"
 date:   2015-09-12 13:40:38
 #categories: jekyll updat
+comments: true
 ---
 
 # Предисловие
