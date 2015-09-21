@@ -322,7 +322,7 @@ jemalloc – это кастомная реализация `malloc`, `free` и 
 
 Я побежал ставить jemalloc, а потом и MRI с включенным jemalloc. Наступил на пару грабель.
 В Ubuntu и Homebrew jemalloc собран без профилировки. С самым свежим jemalloc 4.0.0, вышедшим в августе 2015 г.,
-Ruby не собирается: некоторые гемы (`pg`) пугаются `<stdbool.h>`, включаемого в `<jemalloc/jemalloc.h`. Зато с
+Ruby не собирается: некоторые гемы (`pg`) пугаются `<stdbool.h>`, включаемого в `<jemalloc/jemalloc.h>`. Зато с
 версией 3.6.0 всё работает. Собрать Ruby можно по [инструкции](http://groguelon.fr/post/106221222318/how-to-install-ruby-220-with-jemalloc-support) с помощью rbenv, хотя
 я в итоге собирал сам:
 
