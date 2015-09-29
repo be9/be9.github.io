@@ -19,3 +19,7 @@ comments: true
 ![Потребление памяти web-процессами без утечек](/assets/heroku_metrics_noleak.png)
 
 Никакого тренда. Как говорят трейдеры, «боковик».
+
+# P.S.
+
+_29 сентября 2015_. [Вышел фикс для Redcarpet]({% post_url 2015-09-29-redcarpet-fix-released %}).
