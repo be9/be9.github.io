@@ -10,3 +10,5 @@ github_username:  be9
 
 # Build settings
 markdown: kramdown
+
+ga: true

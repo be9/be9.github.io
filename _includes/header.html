@@ -1,4 +1,6 @@
-{% include ga.html %}
+{% if site.ga %}
+  {% include ga.html %}
+{% endif %}
 <header class="site-header">
 
   <div class="wrapper">
