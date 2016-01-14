@@ -13,8 +13,7 @@ comments: true
 Вот картинка про гомоиконность
 [отсюда](http://theburningmonk.com/2015/05/understanding-homoiconicity-through-clojure-macros/):
 
-![Гомоиконность](/assets/divine-and-humane/clojure_homoiconicity.png)
-
+![Гомоиконность](/assets/divine-and-human/clojure_homoiconicity.png)
 
 Для меня такие переживания чрезвычайно важны, потому что это _вход_ в соответствующее
 пространство. Соприкоснувшись с этим, переходишь к делу:
